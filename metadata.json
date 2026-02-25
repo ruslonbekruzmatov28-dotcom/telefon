@@ -1,0 +1,5 @@
+{
+  "name": "MicroHub OS",
+  "description": "A modern utility dashboard optimized for 240x320 displays, featuring weather, calendar, and productivity tools.",
+  "requestFramePermissions": ["geolocation"]
+}
